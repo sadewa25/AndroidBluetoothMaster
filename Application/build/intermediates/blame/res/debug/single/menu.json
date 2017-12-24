@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/muhammadsadewa/Documents/FlashcomIndonesia/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/menu/bluetooth_chat.xml",
+        "source": "/home/muhammadsadewa/Documents/FlashcomIndonesia/android-BluetoothChat-master/Application/src/main/res/menu/bluetooth_chat.xml"
+    },
+    {
+        "merged": "/home/muhammadsadewa/Documents/FlashcomIndonesia/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/muhammadsadewa/Documents/FlashcomIndonesia/android-BluetoothChat-master/Application/src/main/res/menu/main.xml"
+    }
+]

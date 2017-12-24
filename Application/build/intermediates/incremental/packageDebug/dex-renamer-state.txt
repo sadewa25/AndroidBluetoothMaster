@@ -1,0 +1,4 @@
+#Wed Oct 18 21:05:57 WIB 2017
+base.0=/home/muhammadsadewa/Documents/FlashcomIndonesia/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/muhammadsadewa/Documents/FlashcomIndonesia/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
